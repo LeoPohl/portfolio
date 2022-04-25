@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Inside the longest Atlassian outage",
+    "link": "https://newsletter.pragmaticengineer.com/p/scoop-atlassian",
+    "points": 1100,
+    "id": 1
+  },
+  {
+    "title": "Elon Musk Makes $43B Unsolicited Bid to Take Twitter Private",
+    "link": "https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter",
+    "points": 929,
+    "id": 2
+  },
+  {
+    "title": "Human brain compresses working memories into low-res ‘summaries’",
+    "link": "https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/",
+    "points": 640,
+    "id": 3
+  },
+  {
+    "title": "U+237C ⍼ Right Angle with Downwards Zigzag Arrow",
+    "link": "https://ionathan.ch/2022/04/09/angzarr.html",
+    "points": 635,
+    "id": 4
+  },
+  {
+    "title": "A new heat engine with no moving parts is as efficient as a steam turbine",
+    "link": "https://news.mit.edu/2022/thermal-heat-engine-0413",
+    "points": 565,
+    "id": 5
+  },
+  {
+    "title": "Git security vulnerability announced",
+    "link": "https://github.blog/2022-04-12-git-security-vulnerability-announced/",
+    "points": 531,
+    "id": 6
+  },
+  {
+    "title": "Three areas where Google Search lags behind competitors: code, cooking, travel",
+    "link": "https://www.surgehq.ai//blog/google-search-is-falling-behind",
+    "points": 471,
+    "id": 7
+  },
+  {
+    "title": "A dirty dish by the sink can be a big marriage problem",
+    "link": "https://www.theatlantic.com/family/archive/2022/04/marriage-problems-fight-dishes/629526/",
+    "points": 448,
+    "id": 8
+  },
+  {
+    "title": "You’re muted – or are you? Videoconferencing apps may listen when mic is off",
+    "link": "https://news.wisc.edu/youre-muted-or-are-you-videoconferencing-apps-may-listen-even-when-mic-is-off/",
+    "points": 439,
+    "id": 9
+  },
+  {
+    "title": "Ask HN: Have you created programs for only your personal use?",
+    "link": "item?id=31018836",
+    "points": 372,
+    "id": 10
+  },
+  {
+    "title": "Create hand-drawn GIFs on paper",
+    "link": "https://www.eatmy.art/",
+    "points": 352,
+    "id": 11
+  },
+  {
+    "title": "Facebook open sources Lexical, an extensible text editor library",
+    "link": "https://lexical.dev/",
+    "points": 327,
+    "id": 12
+  },
+  {
+    "title": "Apple's M1 Ultra comes with a 32MB TLB bottleneck",
+    "link": "https://twitter.com/VadimYuryev/status/1514295682777059329",
+    "points": 258,
+    "id": 13
+  },
+  {
+    "title": "The most popular chess streamer on Twitch",
+    "link": "https://www.newyorker.com/culture/rabbit-holes/the-most-popular-chess-streamer-on-twitch",
+    "points": 239,
+    "id": 14
+  },
+  {
+    "title": "Why I quit this battle",
+    "link": "https://badmodems.com/Why.htm",
+    "points": 236,
+    "id": 15
+  },
+  {
+    "title": "What Flips Your Bit: Cosmic Ray Errors at Mozilla",
+    "link": "https://blog.mozilla.org/data/2022/04/13/this-week-in-glean-what-flips-your-bit/",
+    "points": 215,
+    "id": 16
+  },
+  {
+    "title": "Insect Hotel",
+    "link": "https://en.wikipedia.org/wiki/Insect_hotel",
+    "points": 195,
+    "id": 17
+  },
+  {
+    "title": "OpenMower – Open-source robot lawn mower [video]",
+    "link": "https://www.youtube.com/watch?v=BSF04i3zNGw",
+    "points": 194,
+    "id": 18
+  },
+  {
+    "title": "Show HN: I made a website to search for half loaves of bread",
+    "link": "https://halfloafnear.me/",
+    "points": 194,
+    "id": 19
+  },
+  {
+    "title": "Hetzner Cloud – Data loss incident",
+    "link": "item?id=31015840",
+    "points": 164,
+    "id": 20
+  },
+  {
+    "title": "Why is selling software so weird?",
+    "link": "https://www.zeptonaut.com/posts/selling-software-is-weird/",
+    "points": 162,
+    "id": 21
+  },
+  {
+    "title": "A modern self-referential weight matrix that learns to modify itself",
+    "link": "https://arxiv.org/abs/2202.05780",
+    "points": 158,
+    "id": 22
+  },
+  {
+    "title": "Differentiable Programming – A Simple Introduction",
+    "link": "https://www.assemblyai.com/blog/differentiable-programming-a-simple-introduction/",
+    "points": 154,
+    "id": 23
+  },
+  {
+    "title": "The New York Times compels the Wordle Archive project to be shut down",
+    "link": "https://www.devangthakkar.com/wordle_archive/",
+    "points": 153,
+    "id": 24
+  },
+  {
+    "title": "Job hunting while day-jobbing (2021)",
+    "link": "https://code.maiamccormick.com/2021/06/27/job-hunting.html",
+    "points": 138,
+    "id": 25
+  },
+  {
+    "title": "Incident with GitHub Actions and Codespaces",
+    "link": "https://www.githubstatus.com/incidents/vxvyrmy9w1vp",
+    "points": 129,
+    "id": 26
+  },
+  {
+    "title": "The state of static analysis in the GCC 12 compiler",
+    "link": "https://developers.redhat.com/articles/2022/04/12/state-static-analysis-gcc-12-compiler",
+    "points": 120,
+    "id": 27
+  },
+  {
+    "title": "New Covid nasal spray outperforms current antibody treatments in mice",
+    "link": "https://news.northwestern.edu/stories/2022/04/new-covid-19-nasal-spray-outperforms-current-antibody-treatments-in-mice/",
+    "points": 101,
+    "id": 28
+  }
+]
