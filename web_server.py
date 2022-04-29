@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import pprint
 import json
-from flask import Flask, render_template, request, redirect, url_for
+from flask import Flask, render_template, request, redirect, url_for, jsonify
 app = Flask(__name__)
 
 @app.route('/')
@@ -37,7 +37,7 @@ def submit_form():
         return 'something failed'
 
 def write_to_json(data):
-    with open('hacker-news.json', 'w', encoding='utf-8') as output:
+    with open('./templates/hacker_news.json', 'w', encoding='utf-8') as output:
         json.dump(data, output, ensure_ascii=False)
 
 def sort_stories_by_votes(hnlist):
@@ -62,7 +62,7 @@ def create_custom_hn(links, subtext):
     
     return write_to_json(hn)
 
-
+@app.route('/hacker_news.html')
 def get_hacker_news():
     res_page1 = requests.get('https://news.ycombinator.com/news')
     res_page2 = requests.get('https://news.ycombinator.com/news?p=2')
@@ -72,8 +72,10 @@ def get_hacker_news():
     links = soup.select('.titlelink')
     subtext = soup.select('.subtext')
     create_custom_hn(links, subtext)
+    return render_template('hacker_news.html')
 
-
-@app.route('/hacker-news')
-def call_hacker_news():
-    return get_hacker_news
+@app.route('/data')
+def get_hn_data():
+    with open('./templates/hacker_news.json', 'r', encoding='utf-8') as output:
+        hacker_news = json.load(output)
+        return json.dumps(hacker_news)

@@ -1,0 +1,12 @@
+.hacker-news {
+  margin: 3%;
+  padding-top: 60px;
+}
+td {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.first-tr {
+  font-weight: bold;
+  text-align: center;
+}
